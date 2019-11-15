@@ -16,4 +16,4 @@ const xprod = function (lists: any[][]): Generator<any> {
   return xprodInternal([ ...lists ].reverse());
 };
 
-export default xprod;
+export { xprod };

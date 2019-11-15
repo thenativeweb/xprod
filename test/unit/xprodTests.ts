@@ -1,6 +1,6 @@
 import assert from 'assertthat';
 import measureTime from 'measure-time';
-import xprod from '../../lib/xprod';
+import { xprod } from '../../lib/xprod';
 
 suite('xprod', (): void => {
   test('returns the cross product of the given lists.', async (): Promise<void> => {

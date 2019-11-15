@@ -23,18 +23,18 @@ $ npm install xprod
 First you need to add a reference to xprod to your application:
 
 ```javascript
-const xprod = require('xprod').default;
+const { xprod } = require('xprod');
 ```
 
 If you use TypeScript, use the following code instead:
 
 ```typescript
-import xprod from 'xprod';
+import { xprod } from 'xprod';
 ```
 
 To calculate the cross product of two or more arrays, call the xprod function and provide the arrays as parameter. The cross product is returned as a generator to allow multiplying arbitrarily large arrays:
 
-```typescript
+```javascript
 const result = xprod([
   [ 'linux', 'windows', 'macOS' ],
   [ 'node-10', 'node-12' ]
@@ -54,18 +54,18 @@ console.log([...result]);
 
 Since the cross product is calculated lazily, this works, too:
 
-```typescript
+```javascript
 const result = xprod([
-  new Array(100_000).fill('foo'),
-  new Array(100_000).fill('bar')
+  new Array(100000).fill('foo'),
+  new Array(100000).fill('bar')
 ]);
 ```
 
 Keep in mind that empty arrays in the input will result in an empty output:
 
-```typescript
+```javascript
 const result = xprod([
-  new Array(100_000).fill('foo'),
+  new Array(100000).fill('foo'),
   []
 ]);
 
