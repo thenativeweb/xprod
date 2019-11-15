@@ -16,9 +16,9 @@
   "types": "build/lib/xprod.d.ts",
   "dependencies": {},
   "devDependencies": {
-    "assertthat": "4.0.2",
-    "measure-time": "4.0.0",
-    "roboter": "9.1.1"
+    "assertthat": "5.0.1",
+    "measure-time": "5.0.0",
+    "roboter": "9.2.0"
   },
   "repository": {
     "type": "git",

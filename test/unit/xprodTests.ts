@@ -1,5 +1,5 @@
-import assert from 'assertthat';
-import measureTime from 'measure-time';
+import { assert } from 'assertthat';
+import { measureTime } from 'measure-time';
 import { xprod } from '../../lib/xprod';
 
 suite('xprod', (): void => {
