@@ -16,7 +16,7 @@
   "types": "build/lib/xprod.d.ts",
   "dependencies": {},
   "devDependencies": {
-    "assertthat": "5.0.1",
+    "assertthat": "5.0.2",
     "measure-time": "5.0.0",
     "roboter": "9.2.0"
   },
