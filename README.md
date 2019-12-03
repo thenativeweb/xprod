@@ -4,13 +4,13 @@ xprod calculates the [cross product](https://en.wikipedia.org/wiki/Cross_product
 
 ## Status
 
-| Category         | Status                                                                                                                                 |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Version          | [![npm](https://img.shields.io/npm/v/xprod)](https://www.npmjs.com/package/xprod)                                                      |
-| Dependencies     | ![David](https://img.shields.io/david/thenativeweb/xprod)                                                                              |
-| Dev dependencies | ![David](https://img.shields.io/david/dev/thenativeweb/xprod)                                                                          |
-| Build            | [![CircleCI](https://img.shields.io/circleci/build/github/thenativeweb/xprod)](https://circleci.com/gh/thenativeweb/xprod/tree/master) |
-| License          | ![GitHub](https://img.shields.io/github/license/thenativeweb/xprod)                                                                    |
+| Category         | Status                                                                                             |
+| ---------------- | -------------------------------------------------------------------------------------------------- |
+| Version          | [![npm](https://img.shields.io/npm/v/xprod)](https://www.npmjs.com/package/xprod)                  |
+| Dependencies     | ![David](https://img.shields.io/david/thenativeweb/xprod)                                          |
+| Dev dependencies | ![David](https://img.shields.io/david/dev/thenativeweb/xprod)                                      |
+| Build            | ![GitHub Actions](https://github.com/thenativeweb/xprod/workflows/Release/badge.svg?branch=master) |
+| License          | ![GitHub](https://img.shields.io/github/license/thenativeweb/xprod)                                |
 
 ## Installation
 
