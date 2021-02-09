@@ -64,7 +64,10 @@ suite('xprod', (): void => {
     const getElapsed = measureTime();
 
     const input = [
+      // eslint-disable-next-line unicorn/no-new-array
       new Array(100_000).fill('foo'),
+
+      // eslint-disable-next-line unicorn/no-new-array
       new Array(100_000).fill('bar')
     ];
 
