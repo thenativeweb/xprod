@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/thenativeweb/xprod/compare/2.0.2...2.0.3) (2021-05-11)
+
+
+### Bug Fixes
+
+* bump hosted-git-info from 2.8.8 to 2.8.9 ([#270](https://github.com/thenativeweb/xprod/issues/270)) ([c27c157](https://github.com/thenativeweb/xprod/commit/c27c1570e64008e101d7d273339cbe2abefe4ccf))
+
 ## [2.0.2](https://github.com/thenativeweb/xprod/compare/2.0.1...2.0.2) (2021-03-25)
 
 
