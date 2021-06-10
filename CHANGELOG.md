@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/thenativeweb/xprod/compare/2.0.5...2.0.6) (2021-06-10)
+
+
+### Bug Fixes
+
+* bump normalize-url from 6.0.0 to 6.0.1 ([#284](https://github.com/thenativeweb/xprod/issues/284)) ([9c804d6](https://github.com/thenativeweb/xprod/commit/9c804d65067da553059588773b2c84d8ace5919c))
+
 ## [2.0.5](https://github.com/thenativeweb/xprod/compare/2.0.4...2.0.5) (2021-06-10)
 
 
