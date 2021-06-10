@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/thenativeweb/xprod/compare/2.0.4...2.0.5) (2021-06-10)
+
+
+### Bug Fixes
+
+* bump glob-parent from 5.1.1 to 5.1.2 ([#286](https://github.com/thenativeweb/xprod/issues/286)) ([b4ec92a](https://github.com/thenativeweb/xprod/commit/b4ec92a68f3222c572f14293f4b54a47963184fd))
+
 ## [2.0.4](https://github.com/thenativeweb/xprod/compare/2.0.3...2.0.4) (2021-06-10)
 
 
