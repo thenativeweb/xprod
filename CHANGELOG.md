@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/thenativeweb/xprod/compare/2.0.3...2.0.4) (2021-06-10)
+
+
+### Bug Fixes
+
+* bump trim-newlines from 3.0.0 to 3.0.1 ([#285](https://github.com/thenativeweb/xprod/issues/285)) ([2ad91c1](https://github.com/thenativeweb/xprod/commit/2ad91c19909170bfbde3804c1db69bc76cca87fc))
+
 ## [2.0.3](https://github.com/thenativeweb/xprod/compare/2.0.2...2.0.3) (2021-05-11)
 
 
