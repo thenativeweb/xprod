@@ -17,7 +17,7 @@
   "dependencies": {},
   "devDependencies": {
     "assertthat": "6.3.2",
-    "measure-time": "5.0.3",
+    "measure-time": "5.0.6",
     "roboter": "11.7.6",
     "semantic-release-configuration": "2.0.1"
   },
