@@ -19,7 +19,7 @@
     "assertthat": "6.3.3",
     "measure-time": "5.0.6",
     "roboter": "11.7.7",
-    "semantic-release-configuration": "2.0.1"
+    "semantic-release-configuration": "2.0.5"
   },
   "repository": {
     "type": "git",
