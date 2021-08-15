@@ -1,3 +1,10 @@
+## [2.0.7](https://github.com/thenativeweb/xprod/compare/2.0.6...2.0.7) (2021-08-15)
+
+
+### Bug Fixes
+
+* bump path-parse from 1.0.6 to 1.0.7 ([#300](https://github.com/thenativeweb/xprod/issues/300)) ([3194d9b](https://github.com/thenativeweb/xprod/commit/3194d9b06bea3486fcb6751112d8c63c2a1dc61c))
+
 ## [2.0.6](https://github.com/thenativeweb/xprod/compare/2.0.5...2.0.6) (2021-06-10)
 
 
