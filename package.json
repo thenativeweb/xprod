@@ -12,6 +12,7 @@
       "email": "hannes.leutloff@thenativeweb.io"
     }
   ],
+  "private": false,
   "main": "build/lib/xprod.js",
   "types": "build/lib/xprod.d.ts",
   "dependencies": {},
@@ -21,6 +22,7 @@
     "roboter": "12.1.2",
     "semantic-release-configuration": "2.0.5"
   },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/thenativeweb/xprod.git"
