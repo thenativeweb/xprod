@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/thenativeweb/xprod/compare/2.0.7...2.0.8) (2022-03-25)
+
+
+### Bug Fixes
+
+* bump minimist from 1.2.5 to 1.2.6 ([#320](https://github.com/thenativeweb/xprod/issues/320)) ([eeabea2](https://github.com/thenativeweb/xprod/commit/eeabea2cef0d6a227a518feeec1fd8c891a2c130))
+
 ## [2.0.7](https://github.com/thenativeweb/xprod/compare/2.0.6...2.0.7) (2021-08-15)
 
 
